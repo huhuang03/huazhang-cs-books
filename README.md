@@ -3,3 +3,7 @@
 ![](img/img1.jpg)
 
 ![](img/img2.jpg)
+
+
+# Reading
+数字设计和计算机体系结构原书第2版.pdf
